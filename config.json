@@ -1,8 +1,8 @@
 {
     "ownerNumber": "6285961503266@s.whatsapp.net", 
-    "ownerName": "REDLA_SAD", 
-    "botName": "Elaina_Chan",
-    "footer": "® BOTRED | 2022", 
+    "ownerName": "Redla Official", 
+    "botName": "Elainabot",
+    "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "® Sad",
-        "author": "Redla Official"
+        "packname": "® Store",
+        "author": "Elaina Official"
     }
 }
